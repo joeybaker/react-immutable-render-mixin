@@ -1,6 +1,6 @@
 {
   "name": "@joeybaker/react-immutable-render-mixin",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "description": "React PureRenderMixin replacement for immutable-js library",
   "homepage": "https://github.com/joeybaker/react-immutable-render-mixin",
   "bugs": "https://github.com/joeybaker/react-immutable-render-mixin/issues",
